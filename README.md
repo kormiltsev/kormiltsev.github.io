@@ -1,4 +1,8 @@
 # kormiltsev.github.io
---no updating
 
-About me and my project page.
+This page about me and my project, kind of...
+
+LinkedIn is more friendly: 
+```
+https://www.linkedin.com/in/kormiltsev/
+```
