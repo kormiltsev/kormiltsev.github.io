@@ -1,6 +1,6 @@
 # kormiltsev.github.io
 
-This page about me and my project, kind of...
+This page about my projects, kind of...
 
 LinkedIn is more friendly: 
 ```
