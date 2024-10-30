@@ -15,7 +15,7 @@
 
 ### Corp experience
 
-| company   | impact                                                                                                         |
+| Company   | Contribution                                                                                                   |
 | --------- | -------------------------------------------------------------------------------------------------------------- |
 | Litmus    | IIoT (Rockwell, Siemens,..), SaaS (AWS, Azure, Google, Databricks,..), Orchestration (Docker, Nomad) Team Lead |
 | Rogers    | Statistic API [Sportsnet](https://www.sportsnet.ca/) and application                                           |
@@ -25,9 +25,15 @@
 | Samsung   | Industry and Manufactures Coporate Clients Department                                                          |
 | Fujitsu   | Infrastructure Solution Department                                                                             |
 | Microsoft | Small and Medium Business                                                                                      |
-| HTC       | Vendor solutions |
-| Science   | Invent supercondactor Terahertz scanner Physics Researcher |
+| HTC       | Mobile devices Merchandisers Head                                                                              |
+| Science   | Supercondactor Terahertz scanner, Physics Researcher/Inventor                                                  |
 
+### Education
+
+| School                                                        | Degree               | Field                           |
+| ------------------------------------------------------------- | -------------------- | ------------------------------- |
+| Moscow Institute of Physics and Technology - State University | Master's degree      | Applied Mathematics and Physics |
+| Yandex EdTech                                                 | Postgraduate Diploma | Advanced Golang Developer       | 
 
 [LinkedIn](https://www.linkedin.com/in/kormiltsev/?locale=en_US)
 
