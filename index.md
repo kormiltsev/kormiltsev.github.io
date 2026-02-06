@@ -1,34 +1,42 @@
-# Artem Kormiltsev
+# Artem Kormiltsev    artem@kormiltsev.com
 
 
-## Backend Golang Developer, Team Lead
+## Senior Software Engineer, Team Lead
 
-### Tools preferred: 
+### Architecture preferred: 
 
-- Go
+- Anything that run as a container or systemd service
+- Microservices with Docker, Nomad
 - REST, gRPC/protobuf, WebSocket, GraphQL
-- PostresSQL, SQLite, Cassandra
-- Redis
-- AWS S3, Azure Blob, GCS, Databricks
-- Docker, Nomad
-- IIoT(Rockwell, Siemens,..)
+- SQL: PostgreSQL, SQLite, MySQL, Amazon RDS
+- NonSQL: Redis, MongoDB, Apache Cassandra
+- Clouds: AWS S3, Azure Blob, GCS, Databricks
+- Events: Apache Kafka, RabbitMQ
+- IIoT protocols (PROFINET, EtherNet/IP, MQTT)
+
+### Tools preferred:
+
+- Go is the top
+- Agents: Claude Code - top, Codex - also good, Cursor for UI
+- Assistants: OpenAI (GPTs) - PM assist, Claude - verifier
+- CI: bash, Jenkins, Gitlab
 
 ### Corp experience
 
 | Company   | Contribution                                                                                                   |
 | --------- | -------------------------------------------------------------------------------------------------------------- |
-| Litmus    | IIoT (Rockwell, Siemens,..), SaaS (AWS, Azure, Google, Databricks,..), Orchestration (Docker, Nomad) Team Lead |
-| Rogers    | Statistic API [Sportsnet](https://www.sportsnet.ca/) and application                                           |
-| Ozon      | External API for Partners and Integrators Department Head                                                      |
-| OCS       | Cloud Provider Solution Department (AWS, Microsoft, IBM Cloud, Acronis, Autodesk)                              |
-| MSI       | Design and Manufactures Coporate Clients Department Head                                                       |
-| Samsung   | Industry and Manufactures Coporate Clients Department                                                          |
+| Litmus    | IIoT device management, orchestration (Docker), SaaS : Team Lead                                               |
+| Rogers    | API for ststistics here [Sportsnet](https://www.sportsnet.ca/) and for mobile applications : Contractor        |
+| Ozon      | External API for Partners and Integrators :  Head of Department                                                |
+| OCS       | Cloud Provider Solution Department (AWS, Microsoft, IBM Cloud, Acronis, Autodesk) : Project Lead      |
+| MSI       | Design and Manufactures Coporate Clients, workstations : Head                                                |
+| Samsung   | Industry and Manufactures Coporate Clients Department                                                         |
 | Fujitsu   | Infrastructure Solution Department                                                                             |
 | Microsoft | Small and Medium Business                                                                                      |
-| HTC       | Mobile devices Merchandisers Head                                                                              |
-| Science   | Supercondactor Terahertz scanner, Physics Researcher/Inventor                                                  |
+| HTC       | Mobile devices Merchandisers : Merchandiser -> Head                                                                              |
+| Science   | Supercondactor Terahertz scanner, Applied physics : Researcher/Inventor                                                  |
 
-### Education
+### Degrees
 
 | School                                                        | Degree               | Field                           |
 | ------------------------------------------------------------- | -------------------- | ------------------------------- |
